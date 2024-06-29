@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Institute for Interconnected Realities",
   "resources": {
-    "hash": "sha256-JzDBc3Uik5NmMmcZXAeWc45qQmAQrceYMlBYc9J5N30=",
+    "hash": "sha256-CBgW6JUw30exadIA8IcHXI1XCXlft9XQ8cQKBNNA7WE=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.ty6bs30mlm.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Institute for Interconnected Realities.wasm": "sha256-uRMYb3jwBwiDXeaF0UMRlvTJXf1JJ+Xp/TJufZB/qZY=",
+      "Institute for Interconnected Realities.wasm": "sha256-w89XyT/lFRWxTj2jEZpaf62Px0wtLD8ZlLTkIQJRQZM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-pyPKRcKdvaOcluhAOIA3A0e6zlejp+hdvqpU1zi9DMI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-4tmx4uC98MyKjCuM9ErBZwXpqkLx4fwVZfJQIv+Y0+A=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-LYJGTqka6p2RaQhwjm0nbX5muzjO6rM8oTE9uoUmGBs=",
